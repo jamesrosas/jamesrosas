@@ -5,11 +5,13 @@
 > por combinar ambas pasiones encontré el
 > desarrollo web. 💻🙌👾*
 
-`const james = {
+```js
+const james = {
     skills: [ JavaScript, HTML, CSS, SEO],
     tools: [ React, Next.js, Photoshop, Git, Figma ],
     gas: [☕, 🏋🏽‍♂️, 🚲 ]
-}`
+}
+```
 
 <!--
 **jamesrosas/jamesrosas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
