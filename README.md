@@ -7,8 +7,6 @@
 > por combinar ambas pasiones encontré el
 > desarrollo web. 💻🙌👾*
 
-![divider](https://i.postimg.cc/D0pmvTHx/readme-divider.png)
-
 ```js
 const james = {
     skills: [ JavaScript, HTML, CSS, SEO],
@@ -17,6 +15,7 @@ const james = {
 }
 ```
 
+![divider](https://i.postimg.cc/D0pmvTHx/readme-divider.png)
 <!--
 **jamesrosas/jamesrosas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
