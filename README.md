@@ -1,9 +1,13 @@
 ### Que tal! , Soy James Rosas Frontend-DEV 👋
 
+![divider](https://i.postimg.cc/D0pmvTHx/readme-divider.png)
+
 > *Soy un apasionado por el arte digital y
 > la tecnologia. Y en esa búsqueda constante 
 > por combinar ambas pasiones encontré el
 > desarrollo web. 💻🙌👾*
+
+![divider](https://i.postimg.cc/D0pmvTHx/readme-divider.png)
 
 ```js
 const james = {
