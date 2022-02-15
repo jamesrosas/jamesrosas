@@ -10,7 +10,7 @@
 ```js
 const james = {
     skills: [ JavaScript, HTML, CSS, SEO],
-    tools: [ React, Gatsby, Next, Photoshop, Git, Figma ],
+    tools: [ React, Gatsby, Next, Git, Figma, Photoshop ],
     gas: [☕, 🏋🏽‍♂️, 🚲 ]
 }
 ```
